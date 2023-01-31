@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/kvantum.png"/>
+  <img src="assets/oled.png"/>
 </p>
 
 ## Usage
